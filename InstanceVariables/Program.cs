@@ -8,7 +8,6 @@
         int chemistryMarks;
         int mathsMarks;
         int totalMarks;
-        int totalPercentage;
 
         //creating a non static method to get the total marks
         void TotalNumber()
